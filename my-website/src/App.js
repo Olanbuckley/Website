@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src="https://storage.googleapis.com/olanbuckleywebsite/Content/Profile%20Photo.jpg" className="App-logo" alt="logo" />
         <p>
-          Edit <code>Olan</code> and.
+          Edit <code>Olan 123</code> and.
         </p>
         <a
           className="App-link"
